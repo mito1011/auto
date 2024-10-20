@@ -96,6 +96,7 @@
     "js-yaml": "4.1.0",
     "keycloak-connect": "25.0.6",
     "mysql2": "3.11.3",
+    "nest": "0.1.6",
     "nest-keycloak-connect": "1.10.1",
     "nodemailer": "6.9.15",
     "oracledb": "6.6.0",

@@ -17,7 +17,7 @@ import { afterAll, beforeAll, describe, expect, test } from '@jest/globals';
 import { HttpStatus } from '@nestjs/common';
 import axios, { type AxiosInstance, type AxiosResponse } from 'axios';
 import { type BuchDTO } from '../../src/auto/controller/buchDTO.entity.js';
-import { BuchReadService } from '../../src/auto/service/buch-read.service.js';
+import { BuchReadService } from '../../src/auto/service/auto-read.service.js';
 import {
     host,
     httpsAgent,
